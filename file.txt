@@ -1,2 +1,3 @@
 initial
 step B
+step C
